@@ -11,3 +11,7 @@ The University of Washington Coding bootcamp
 ## Source of repository
 
 https://github.com/coding-boot-camp/urban-octo-telegram
+
+## Badges
+
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/SidneyBasa/pre-work/website/total?logo=github&style=plastic)
